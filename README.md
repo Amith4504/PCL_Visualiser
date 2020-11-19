@@ -1,4 +1,4 @@
-PCL_Visualser
+**PCL_Visualiser**
 
 subscribes to ROS topic : "/camera/left/point_cloud"
-and generated a 3D point cloud stream.
+and generates a 3D point cloud stream.
